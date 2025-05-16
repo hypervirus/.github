@@ -24,11 +24,12 @@ We're not just building a project — we're building an open movement.
 ## 🗂 Repository Structure
 
 This GitHub organization contains multiple repositories, including:
+
 - NFT contracts, mission systems, royalty logic, and reward distributions.
-– React-based interfaces and interactive UI/UX for all portals.
-– API logic, snapshot systems, leaderboard mechanics.
-– Scripts, utilities, and dev tools to help expand the ecosystem.
-– Select visual components and resources for community use.
+- React-based interfaces and interactive UI/UX for all portals.
+- API logic, snapshot systems, leaderboard mechanics.
+- Scripts, utilities, and dev tools to help expand the ecosystem.
+- Select visual components and resources for community use.
 
 Each repo includes its own `README.md` with usage, installation, and contribution instructions.
 
