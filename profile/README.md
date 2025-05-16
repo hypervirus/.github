@@ -71,7 +71,7 @@ All code in this repository is under the **MIT License**, unless otherwise state
 
 ## 📡 Stay Connected
 
-- 🌐 Website: [hypervirus.xyz](https://hypervirus.xyz)
+- 🌐 Website: [fighthervirus.xyz](https://www.fighthervirus.xyz/)
 - 🧬 Twitter/X: [@hypervirus8888](https://x.com/hypervirus8888/)
 - 💬 Discord: [discord.gg/hypervirus](https://discord.gg/Bk8wbSwSpv)
 
